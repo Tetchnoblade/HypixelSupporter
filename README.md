@@ -1,2 +1,28 @@
 # HypixelSupporter
- A Hypixel server mod that implements only the quick command functions available in the Raven client
+A Hypixel server mod that implements only the quick command functions available in the Raven client
+Since I lost the source code, only the jar will be distributed
+Commands (The left is the command, the right is the actual command sent)
+"/ps", "/play bedwars_practice"
+"/1s", "/play bedwars_eight_one"
+"/2s", "/play bedwars_eight_two"
+"/3s", "/play bedwars_four_three"
+"/4s", "/play bedwars_four_four"
+"/4v4s", "/play bedwars_two_four"
+"/2ts", "/play bedwars_eight_two_tourney"
+"/2uns", "/play bedwars_eight_two_underworld"
+"/4uns", "/play bedwars_four_four_underworld"
+"/2rs", "/play bedwars_eight_two_rush"
+"/4rs", "/play bedwars_four_four_rush"
+"/ns", "/play solo_normal"
+"/is", "/play solo_insane"
+"/tns", "/play teams_normal"
+"/tis", "/play teams_insane"
+"/bowds", "/play duels_bow_duel"
+"/cds", "/play duels_classic_duel"
+"/opds", "/play duels_op_duel"
+"/uhcds", "/play duels_uhc_duel"
+"/bds", "/play duels_bridge_duel"
+"/uhcs", "/play uhc_solo"
+"/tuhcs", "/play uhc_teams"
+"/gss", "/play arcade_grinch_simulator_v2"
+"/gsts", "/play arcade_grinch_simulator_v2_tourney"
